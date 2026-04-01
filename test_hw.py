@@ -1,6 +1,10 @@
 import unittest
 import hw
 
+
+# тесты выглядят не совсем рабочими!!!
+
+
 class TestFunctions(unittest.TestCase):
     # Exercise-1
     def test_squares(self):
